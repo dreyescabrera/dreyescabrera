@@ -20,7 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realdiegor&show_icons=true&locale=en&layout=compact" alt="realdiegor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realdiegor&show_icons=true&locale=en" alt="realdiegor" /></p>
 
 <!---
 realDiegoR/realDiegoR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
