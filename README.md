@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript and ReactJS**
 
-- 📫 How to reach me **diegoreyes150103@gmail.com**
+- 📫 You can reach me at **diegoreyes150103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
