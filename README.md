@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Diego Alejandro Reyes Cabrera.</h1>
+![banner](https://i.imgur.com/2FAwvE5.jpg)
+<h1 align="center">Hi 👋, I'm Diego Reyes Cabrera.</h1>
 <h3 align="center">I love developing web apps and understanding how things work from behind.</h3>
 
-- 🌱 I’m currently learning **ReactJS and React Router**
+- 🌱 I’m currently learning **ReactJS and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://realdiegor.dev](https://realdiegor.dev)
 
