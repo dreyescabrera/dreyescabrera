@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.imgur.com/FJQqnDx.jpg"  />
+  <img src="https://res.cloudinary.com/djvydqyun/image/upload/v1693107924/LinkedIn_Banner_Diego_Reyes_Cabrera_wgoahl.png"  />
 </div>
 
 ###
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/diegoreyescabrera/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -27,15 +27,15 @@
 
 ###
 
-<h1 align="center">Hey 👋 I am Diego Reyes Cabrera</h1>
+<h1>Hey 👋 I am Diego Reyes Cabrera</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I love developing web apps and understanding how technology works behind the scenes.<br><br>- 📚 I’m currently learning **ReactJS and TypeScript** in depth.<br><br>- 👨‍💻 Take a look to all my work at [https://realdiegor.dev](https://realdiegor.dev).<br><br>- 📫 Feel free to reach me at **hello@realdiegor.dev**.<br><br>- ⚡ In my free time I read, write and enjoy with my nearest people.</p>
+<p align="left">I love developing web apps and understanding how technology works under the hood<br><br>- 📚 I’m currently learning and building stuff with <strong>Next.js, TypeScript and Node.js</strong>.<br><br>- 👨‍💻 Take a look to all my work and articles at  https://realdiegor.dev.<br><br>- 📫 I'll be happy if you reach out to me (for any question or reason) at hello@realdiegor.dev.<br><br>- ⚡ Fun fact: I'm probably dealing with an annoying bug.</p>
 
 ###
 
@@ -70,13 +70,10 @@
 
 ###
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=realdiegor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realdiegor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/realdiegor/realdiegor/output/snake.svg" alt="Snake animation" />
-
-###
